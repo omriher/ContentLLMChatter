@@ -8,8 +8,9 @@ To run this script, you will need to have the following libraries installed:
 
 - transformers
 - torch
-- argparse
-- textwrap
+- bitsandbytes
+- accelerate
+- sentencepiece
 - langchain
 
 ### Usage
