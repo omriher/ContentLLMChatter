@@ -1,5 +1,6 @@
 # LLaMaContentChatter
-This code is a Python script for generating responses to questions based on a set of PDF files. It uses the Llama language model from the HuggingFace Transformers library and a custom implementation of a language model chain (LLMChain) from the LangChain library.
+This code is a Python script for generating responses to questions based on a set of PDF files. It uses the Llama language model from the HuggingFace Transformers library.
+The code has a custom implementation of the appropriate Embeddings class.
 
 ### Prerequisites
 
@@ -32,4 +33,4 @@ The script does the following:
 
 ### Credits
 
-This script was created by Omri Herscovici. It uses the Llama language model from the HuggingFace Transformers library and a custom implementation of a language model chain (LLMChain) from the LangChain library.
+This script was created by Omri Herscovici. It uses the Llama language model from the HuggingFace Transformers library.
