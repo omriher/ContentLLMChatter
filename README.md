@@ -19,7 +19,7 @@ To run the script, use the following command:
 python contentllmchatter.py -m MODEL_NAME -f FOLDER -q QUESTION
 ```
 
-Where `MODEL_NAME` is the name of the HuggingFace model to use, `FOLDER` is the path to the folder containing the PDF files to analyze, and `QUESTION` is the question to ask the language model. use quotation marks ("").
+Where `MODEL_NAME` is the name of the HuggingFace model to use, `FOLDER` is the path to the folder containing the PDF files to analyze, and `QUESTION` is the question to ask the language model - use quotation marks `""`.
 
 ### Functionality
 
